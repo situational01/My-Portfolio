@@ -46,13 +46,7 @@ Responsive Design - Works well on desktop and mobile
 🚀 Getting Started
 To run this project locally:
 
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/situational01/portfolio-website.git
-Navigate to the project directory:
+The link to the website is: https://situational01.github.io/my-portfolio/
 
 bash
 Copy
